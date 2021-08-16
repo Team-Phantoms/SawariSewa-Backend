@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sawarisewaapp",
+  "private_key_id": "17ae1465bd87bf74751392257ffe0bd7d9060125",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCYcP4se58mwm/Z\n3emhIMJFCm1Mu8692We3OQKEtcGYk2hQhupdAsz8ic2wAgSFncAf+pL0ICPTBEnE\n1v+wKyc0xyrjjZZn7u8muHFQm+TmCA01JQH0ikVhHDlqzWqSJLKyfNrspcTUBWB8\n/y8rE16iLDUf9rh2E00TDbS1+wuxtSWZdfrhHnBOWa74VGl4ZxZjHwK/yKBF9omD\nOoD+AiCVNjvW+mqcI05+BpQ6T0yAR1i62J8I5qTRBF8HhOuAnymFvAGbFsnOIvj9\nC89G8YYl/5kKmNESG9y1KQiinlHBT0IkM8owljjDp1q0Axyn9+akGT4Ln7FiU0De\ntYgbZXNTAgMBAAECggEADep4CYTaKSZOzPYJFysaZkW8Eektx6mft4YoyLH0PlgW\nibix5FPBIBH5s5DmQMb/Juwvm2w5A6ZnOuTgP9YbT3dvCYl/VXWRDK6BtE4cPd42\nS8euagMar5wX/Gahd+iJt5QrmAwkmlud90su+cuxiTRn6nG8smqzT9ihyosPAjss\nW+7rTXhwWJuw0pLmOUDMhQs1WgAuRsYpBHICyEFYuLwGPZfMMMcHORbFH14anF0U\nzqAe5Bi1+hiMfdfy53h9aZEhKWNUZUuxPNvNQgvimCKMRNl+2VCDCN6mDMl63ShZ\nMBkDmJXG1WyZacbX1HHVMx4/ZNbEcK472davfEp9YQKBgQDPGeoJM4JmDswfmyO7\nSJLsO/c1I6uQp5jrdBfl3IH4jXDD0yVAiW1Ygx31wx7e3Cdr2UUAQEO+Lskj64cn\nGVgF8wPxZLiv0wNt3AHOI4Sn42ux31YnXV8eX6DVnrrQyEYXvZLJmp+v/wgczTiT\ngt1x63bSUaBv+bJMlN1KGDSp5wKBgQC8bzP/+2KCW8sAsJ1VZ5ywjLkENy1POJ7I\nHD33vwU4iz+M8QgmrqwIkxmIlGBwnc4PaUSJNUicOsyM0m4hijh+0/5obH2Ta+ol\nm1/zbGe0uV8rCBjMY3aNb+A46nZ9NWASee7WLvq5Wt5kmKx0691H808voYrs4PRm\nrZSFFo+1tQKBgQDFD8t55eF2ay4gBOcDFhN3ZbfcgIyHoHIJ2PXEawXhE/Tw4MDZ\nn+rEBj9D0t5VAPch0COwEXZkSPBrlXmM4ri3MH3X/BcgdpEUv/uXwoQ/nE6lefXo\njxgrNqM7oUXx1B+eB2zdGJxKQ0nc3gmvkx5Tf9IYXkNjSR03cY7/KfkykQKBgQCO\nv++0zMwj1UZEj4ehW4zocrL27pX0ngAruLl5JczeuR67tx1lsI3DMSz2uvEUX3fr\nVOQGzcbkE+dCB2hHIF8MNa1VjlrTg70uIDbgQg+OaaAfCVNAA1mcbFSAyZ5Z3EWb\nuaOlvpFSOfSgYMjFCqnoB/rFKqwEJ6b+4iDRcfYMwQKBgQDFoNKVBi1a2Epqm5Ml\n/tOC5/ICcU+JdKuv3mnmwYChag5VFHsLph2BmcJ5GMvA/78W6zPS9jKkwbTrxs7B\ny41NDDJmP/S0wkPB9iEOUEyNZ5Q/SHsFXy5odLigtz6gg+yJymiV7rEGHFmo3fGQ\nlz+E1eyTmRRdpJU6BlnPRjn3Ng==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9picg@sawarisewaapp.iam.gserviceaccount.com",
+  "client_id": "107279461738299273551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9picg%40sawarisewaapp.iam.gserviceaccount.com"
+}

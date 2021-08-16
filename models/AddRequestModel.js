@@ -1,0 +1,31 @@
+const mongoose =require('mongoose');
+const AddRequest =mongoose.model("AddRequest",{
+    problemtype:{
+        type:String
+    },
+    vechbrand:{
+        type:String
+    },
+    vechmodel:{
+        type:String
+    },
+    vechplatenum:{
+        type:String
+    },
+    address:{
+        type:String
+    },
+    lat:{
+        type:String
+    },
+    long:{
+        type:String
+    },
+    token:{
+        type:String
+    },
+    clusername:{
+        type:String
+    }
+})
+module.exports=AddRequest;
