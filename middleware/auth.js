@@ -10,6 +10,7 @@ module.exports.verifyclient=function(req,res,next){
    const data = jwt.verify(token,'csecretkey');
    client.findOne({_id : data.clientId}).then(function(clientData){
      req.clientData  = clientData;
+
      next();
    }).catch(function(e){
      res.status(401).json({error : e})
